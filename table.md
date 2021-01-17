@@ -1,7 +1,7 @@
 # Table
 
 | ModuleCode | MC | ModuleName |
---------------
+---
 | MA1131 | 3 | Y1S1 Math |
 | MA1231 | 2 | Y1S1 MO |
 | MA1132 | 3 | Y1S2 Math |
