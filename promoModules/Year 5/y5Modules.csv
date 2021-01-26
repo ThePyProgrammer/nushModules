@@ -1,0 +1,37 @@
+Module Code,MC,Module Name,Year,Semester
+MA5131,5,Y5S1 Math,5,1
+MA5231V,2,Y5 MO,5,1
+MA5132,5,Y5S2 Math,5,2
+CS5131,4,AI,5,1
+CS5132,4,Data Structures and Algo,5,2
+BL5231,2,Y5S1 BO,5,1
+BL5232,2,Y5S2 BO,5,2
+BL5131,8,Y5 Bio,5,0
+CM5131,4,Y5S1 Chem,5,1
+CM5231,2,Y5S1 Chem O,5,1
+CM5132,4,Y5S2 Chem,5,2
+CM5232,2,Y5S2 Chem O,5,2
+PC5131,4,Y5S1 Physics,5,1
+PC5132,4,Y5S2 Physics,5,2
+PC5231,2,Y5S1 PO,5,1
+PC5233,2,Y5 Physics Consolidation Module,5,1
+PC5232,2,Y5S2 PO,5,2
+EL5131,4,Y5 English - Critical Reading and Writing II,5,0
+EL5132,2,Y5 English - Language for Public Communication,5,0
+EN5131,4,Y5S1 Lit,5,1
+EN5132,4,Y5S2 Lit,5,2
+CL5531,8,Y5 Normal Chinese,5,0
+ML5531,8,Y5 Normal Malay,5,0
+TL5531,8,Y5 Normal Tamil,5,0
+CL5231,2,Topics on Chinese Literature,5,1
+CL5232,2,Basic Translation Skills,5,2
+EC5131,4,Y5S1 Econs,5,1
+EC5132,4,Y5S2 Econs,5,2
+GE5131,4,Y5S1 Geography,5,1
+GE5132,4,Y5S2 Geography,5,2
+HY5131,4,Y5S1 History,5,1
+HY5132,4,Y5S2 History,5,2
+MU5131,4,Y5S1 Music,5,1
+MU5132,4,Y5S2 Music,5,2
+AR5131,4,Y5S1 Art,5,1
+AR5132,4,Y5S2 Art,5,2
