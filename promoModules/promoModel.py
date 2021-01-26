@@ -1,8 +1,11 @@
 # getting any year, any sem promoModules
+import os
 
 def promo(year, sem=-1):
     if sem == "both": sem = 0
-    with open("nushModules.csv") as modules, open("y"+str(year)+("s"+str(sem) if sem+1 else "")+"Modules.csv", "w+") as out:
+    try: os.mkdir("Year "+str(year))
+    except: pass
+    with open("nushModules.csv") as modules, open("Year "+str(year)+"/y"+str(year)+("s"+str(sem) if sem+1 else "")+"Modules.csv", "w+") as out:
         print(modules.readline().strip(), file=out)
 
         for i in modules.readlines()[1:]:
