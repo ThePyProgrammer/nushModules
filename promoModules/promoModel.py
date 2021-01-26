@@ -14,3 +14,7 @@ def promo(year, sem=0):
                     if str(sem) in s: print(i, file=out)
                 elif s == str(sem):
                     print(i, file=out)
+
+for year in range(1, 7):
+    for sem in [0, 1, 2, "both"]:
+        promo(year, sem)
