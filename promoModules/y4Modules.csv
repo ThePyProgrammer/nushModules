@@ -1,0 +1,52 @@
+Module Code,MC,Module Name,Year,Semester
+MA4131,5,Y4S1 Math,4,1
+MA4231V,2,Y4 MO,4,1
+MA4132,5,Y4S2 Math,4,2
+CS4131,4,Andoid App Dev,4,1
+CS4231,2,IOT III,4,1
+CS4132,4,Data Analytics,4,2
+CS4133V,4,SoC Precursor Module,4,2
+CS4134V,4,DigiPen Precursor Module,4,2
+CS4232,4,Data Analytics,4,2
+BL4231,2,Y4S1 BO,4,1
+BL4232,2,Y4S2 BO,4,2
+BL4131,8,Y4 Bio,4,0
+CM4131,4,Y4S1 Chem,4,1
+CM4231,2,Y4S1 Chem O,4,1
+CM4132,4,Y4S2 Chem,4,2
+CM4232,2,Y4S2 Chem O,4,2
+CM4234,2,Y4S1 Chemistry of Minerals and Gems,4,1
+CM4234,2,Y4S2 Chemistry of Minerals and Gems,4,2
+PC4131,4,Y4S1 Physics,4,1
+PC4132,4,Y4S2 Physics,4,2
+PC4231,2,Y4S1 PO,4,1
+PC4232,2,Y4S2 PO,4,2
+EL4131,6,Y4 English - Critical Reading and Writing I,4,0
+EN4131,3,Y4S1 Lit,4,1
+EN4132,3,Y4S2 Lit,4,2
+CH4531,8,Y4 Higher Chinese,4,0
+CL4531,8,Y4 Normal Chinese,4,0
+MH4531,8,Y4 Higher Malay,4,0
+ML4531,8,Y4 Normal Malay,4,0
+TH4531,8,Y4 Higher Tamil,4,0
+TL4531,8,Y4 Normal Tamil,4,0
+CL4231,3,Y4S1 3rd Lang Chinese,4,1
+CL4232,3,Y4S2 3rd Lang Chinese,4,2
+CL4233,2,Appreciation of Chinese Language and Culture I,4,1
+CL4234,2,Appreciation of Chinese Language and Culture II,4,2
+FR4231,3,Y4S1 3rd Lang French,4,1
+FR4232,3,Y4S2 3rd Lang French,4,2
+JP4231,3,Y4S1 3rd Lang Japanese,4,1
+JP4232,3,Y4S2 3rd Lang Japanese,4,2
+ML4231,3,Y4S1 3rd Lang Malay,4,1
+ML4232,3,Y4S2 3rd Lang Malay,4,2
+EC4131,4,Y4S1 Econs,4,1
+EC4132,4,Y4S2 Econs,4,2
+GE4131,4,Y4S1 Geography,4,1
+GE4132,4,Y4S2 Geography,4,2
+HY4131,4,Y4S1 History,4,1
+HY4132,4,Y4S2 History,4,2
+MU4131,4,Y4S1 Music,4,1
+MU4132,4,Y4S2 Music,4,2
+AR4131,4,Y4S1 Art,4,1
+AR4132,4,Y4S2 Art,4,2
