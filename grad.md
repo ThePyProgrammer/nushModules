@@ -143,8 +143,7 @@
 | EC6132 | 4 | Y6S2 Econs | 6 | 2 |
 | GE6131 | 4 | Y6S1 Geography | 6 | 1 |
 | GE6132 | 4 | Y6S2 Geography | 6 | 2 |
-| HU6131 | 2 | Y6S1 Humanities Capstone Project | 6 | 1 |
-| HU6131 | 2 | Y6S2 Humanities Capstone Project | 6 | 2 |
+| HU6131 | 2 | Y6 Humanities Capstone Project | 6 | 0 |
 | HY6131 | 4 | Y6S1 History | 6 | 1 |
 | HY6132 | 4 | Y6S2 History | 6 | 2 |
 | MU3131 | 3 | Y3S1 Music | 3 | 1 |
